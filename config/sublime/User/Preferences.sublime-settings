@@ -1,0 +1,11 @@
+{
+	"font_size": 15,
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"theme": "Gravity One.sublime-theme",
+	"color_scheme": "auto",
+	"dark_color_scheme": "One Dark Gravity.sublime-color-scheme",
+	"light_color_scheme": "One Dark Gravity.sublime-color-scheme",
+}

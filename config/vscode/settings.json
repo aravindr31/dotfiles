@@ -1,0 +1,15 @@
+{
+  "window.zoomLevel": 2,
+  "editor.fontFamily": "'Fira Code'",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 15,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "workbench.colorTheme": "Gravity",
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.formatOnSave": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}

@@ -1,0 +1,35 @@
+nvm -- 
+snapd --
+node js --lts  --
+vscode --
+sublime --
+spotify --
+telegram --
+brave browser --
+gparted--   
+gnome tweaks --
+authpass -snapd pkg --
+virtualbox --
+pycharm community edition 
+gh -- git cmd line --
+protonvpn-cli --
+vlc 
+htop
+
+
+
+gnome.css --custom --
+
+bashrc file --custom --
+starship file -- custom --
+
+fira code Nerd
+Hack Nerd 
+
+grub --/etc/default --
+
+grub themes -- /usr/share/grub/themes --
+
+vscode -- config file
+
+sublime -- config file

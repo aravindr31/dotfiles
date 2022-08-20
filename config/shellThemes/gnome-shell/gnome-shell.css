@@ -1,0 +1,26 @@
+@import url("resource:///org/gnome/theme/gnome-shell.css");
+
+stage {
+  font-family: SF Pro Display;
+  font-size: 15px;
+}
+#panel {
+  background-color: #1d2128;
+  font-size: 16px;
+}
+.panel-menu {
+  font-size: 18px;
+  font-weight: normal;
+}
+.notification-banner {
+  font-size: 15px;
+  color: #d8dee9;
+  background-color: #2e3440;
+  border: 1px solid #1f232b;
+}
+#panel.unlock-screen{
+  font-size: 30px;
+}
+#panel.login-screen{
+  font-size: 30px;
+}

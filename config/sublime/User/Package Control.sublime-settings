@@ -1,0 +1,16 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Autoprefixer",
+		"BracketHighlighter",
+		"Package Control",
+		"React Templates",
+		"Tailwind CSS",
+		"Theme - Gravity",
+	],
+}
