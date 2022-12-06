@@ -1,0 +1,8 @@
+configuration {
+  show-icons:         true;
+  icon-theme:         "Zafiro";
+  terminal:           "xfce4-terminal";
+  cycle:              false;
+  hide-scrollbar:     true;
+  disable-history:    false;
+}
