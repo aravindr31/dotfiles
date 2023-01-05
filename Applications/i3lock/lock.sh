@@ -1,0 +1,2 @@
+#!/bin/bash
+i3lock --force-clock --time-str="%I:%M %p" --date-str="%B %d, %G" --{time,date,greeter}-size=48 --{time,date,greeter}-font=SF-Pro-Display-Medium --ind-pos="970:600" --time-pos="970:750" --date-pos="970:800" --{layout,time,date,greeter}-color=ffffffff --verif-text="" --wrong-text="" --noinput-text="" -c 00000057 --radius 50 --{key,bs}hl-color=ccff00ff --{inside,ring}wrong-color=fd1c03ff --{inside,ring}-color=00000011 --line-color=ffffffff --greeter-text="Falcon is Locked" --greeter-pos="970:350" -e

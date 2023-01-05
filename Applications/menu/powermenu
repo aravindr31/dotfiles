@@ -1,0 +1,4 @@
+#!/bin/bash
+
+powermanu=$($HOME/.config/rofi/bin/Falcon/powermenu)
+#launcher=$($HOME/.config/openbox/rofi/bin/launcher)

@@ -1,0 +1,15 @@
+Xft/Hinting 1
+Xft/HintStyle "hintslight"
+Xft/Antialias 1
+Xft/RGBA "none"
+
+Net/ThemeName "Windows-10-Dark"
+Gtk/EnableAnimations 1
+Gtk/PrimaryButtonWarpsSlider 0
+Gtk/ToolbarStyle 3
+Gtk/MenuImages 1
+Gtk/ButtonImages 1
+Gtk/CursorThemeName "Sweet"
+Gtk/CursorThemeSize 0
+Net/IconThemeName "Win11-Dark"
+Gtk/FontName "SF Pro Display Regular, 13"
